@@ -1,0 +1,9 @@
+Package: com.ruenzuo.Gorgon
+Name: Gorgon
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Renzo Crisóstomo
+Author: Renzo Crisóstomo
+Section: Tweaks
